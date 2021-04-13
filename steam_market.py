@@ -9,7 +9,7 @@ usr_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
 headers = {'user-agent': usr_agent}
 
 #
-usr_inp = 'awp asiimov ft' # input('Search skin: ')
+usr_inp = 'st awp asiimov ww' # input('Search skin: ')
 #
 
 if usr_inp[:2] == "st":
@@ -102,27 +102,18 @@ we = {
     
 
 
-
-
-
 """Setting weapon exterior (condition, wear)"""
 weapon_exterior = 'any'
 
-if ('fn') in usr_inp:
-    weapon_exterior = 'tag_WearCategory0'
+we_exteriors = {
+    'fn': 'tag_WearCategory0',
+    'mw': 'tag_WearCategory1',
+    'ft': 'tag_WearCategory2',
+    'ww': 'tag_WearCategory3',
+    'bs': 'tag_WearCategory4'
+}
 
-elif ('mw') in usr_inp:
-    weapon_exterior = 'tag_WearCategory1'
-
-elif ('ft') in usr_inp:
-    weapon_exterior = 'tag_WearCategory2'
-
-elif ('ww') in usr_inp:
-    weapon_exterior = 'tag_WearCategory3'
-
-elif ('bs') in usr_inp:
-    weapon_exterior = 'tag_WearCategory4'
-
+weapon_exterior = we_exteriors[usr_inp[-2:]]
 
 # remove the wear from the input string
 usr_inp = usr_inp[:-3]
