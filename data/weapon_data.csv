@@ -1,0 +1,857 @@
+collection,weapon,skin,quality,drop
+Assault,SG 553,Tornado,Consumer Grade, 
+Assault,UMP-45,Caramel,Consumer Grade, 
+Assault,Five-SeveN,Candy Apple *,Industrial Grade, 
+Assault,AUG,Hot Rod,Mil-Spec, 
+Assault,Negev,Anodized Navy,Mil-Spec, 
+Assault,MP9,Bulldozer,Restricted, 
+Assault,Glock-18,Fade,Restricted, 
+Aztec,Nova,Forest Leaves,Consumer Grade, 
+Aztec,Five-SeveN,Jungle,Consumer Grade, 
+Aztec,SSG 08,Lichen Dashed,Consumer Grade, 
+Aztec,AK-47,Jungle Spray,Industrial Grade, 
+Aztec,M4A4,Jungle Tiger,Industrial Grade, 
+Aztec,Tec-9,Ossified,Mil-Spec, 
+Baggage,G3SG1,Contractor,Consumer Grade, 
+Baggage,MP7,Olive Plaid,Consumer Grade, 
+Baggage,CZ75-Auto,Green Plaid,Consumer Grade, 
+Baggage,MP9,Green Plaid,Consumer Grade, 
+Baggage,SSG 08,Sand Dune,Consumer Grade, 
+Baggage,SG 553,Traveler,Industrial Grade, 
+Baggage,P90,Leather,Industrial Grade, 
+Baggage,MAC-10,Commuter,Industrial Grade, 
+Baggage,P2000,Coach Class,Industrial Grade, 
+Baggage,Sawed-Off,First Class,Mil-Spec, 
+Baggage,USP-S,Business Class,Mil-Spec, 
+Baggage,XM1014,Red Leather,Mil-Spec, 
+Baggage,AK-47,First Class,Restricted, 
+Baggage,Desert Eagle,Pilot,Restricted, 
+Baggage,AK-47,Jet Set,Classified, 
+Bank,Tec-9,Urban DDPAT,Consumer Grade, √
+Bank,SG 553,Army Sheen,Consumer Grade, √
+Bank,Sawed-Off,Forest DDPAT,Consumer Grade, √
+Bank,Negev,Army Sheen,Consumer Grade, √
+Bank,MP7,Forest DDPAT,Consumer Grade, √
+Bank,R8 Revolver,Bone Mask *,Consumer Grade, √
+Bank,UMP-45,Carbon Fiber,Industrial Grade, √
+Bank,Nova,Caged Steel,Industrial Grade, √
+Bank,MAC-10,Silver,Industrial Grade, √
+Bank,Glock-18,Death Rattle,Industrial Grade, √
+Bank,G3SG1,Green Apple,Industrial Grade, √
+Bank,Galil AR,Tuxedo,Mil-Spec, √
+Bank,Desert Eagle,Meteorite,Mil-Spec, √
+Bank,CZ75-Auto,Tuxedo,Mil-Spec, √
+Bank,AK-47,Emerald Pinstripe,Restricted, √
+Bank,P250,Franklin,Classified, √
+Cache,Negev,Nuclear Waste,Industrial Grade, †
+Cache,P250,Contamination,Industrial Grade, †
+Cache,AUG,Radiation Hazard,Industrial Grade, †
+Cache,PP-Bizon,Chemical Green,Industrial Grade, †
+Cache,SG 553,Fallout Warning,Industrial Grade, †
+Cache,Five-SeveN,Hot Shot,Industrial Grade, †
+Cache,Glock-18,Reactor,Mil-Spec, †
+Cache,MP9,Setting Sun,Mil-Spec, †
+Cache,XM1014,Bone Machine,Mil-Spec, †
+Cache,MAC-10,Nuclear Garden,Mil-Spec, †
+Cache,Tec-9,Toxic,Mil-Spec, †
+Cache,FAMAS,Styx,Restricted, †
+Cache,Galil AR,Cerberus,Restricted, †
+Canals,CZ75-Auto,Indigo,Consumer Grade, †
+Canals,AUG,Navy Murano,Consumer Grade, †
+Canals,R8 Revolver,Canal Spray,Consumer Grade, †
+Canals,Negev,Boroque Sand,Consumer Grade, †
+Canals,SCAR-20,Stone Mosaico,Consumer Grade, †
+Canals,AK-47,Baroque Purple,Industrial Grade, †
+Canals,SG 553,Candy Apple,Industrial Grade, †
+Canals,Tec-9,Orange Murano,Industrial Grade, †
+Canals,P250,Dark Filigree,Industrial Grade, †
+Canals,Dual Berettas,Emerald,Mil-Spec, †
+Canals,P90,Baroque Red,Mil-Spec, †
+Canals,SSG 08,Orange Filigree,Mil-Spec, †
+Canals,G3SG1,Violet Murano,Mil-Spec, †
+Canals,MAC-10,Red Filigree,Restricted, †
+Canals,Nova,Baroque Orange,Restricted, †
+Canals,MP9,Stained Glass,Restricted, †
+Canals,MAG-7,Cinquedea,Restricted, †
+Canals,AWP,The Prince,Covert, †
+Cobblestone,P90,Storm,Consumer Grade, †
+Cobblestone,UMP-45,Indigo,Consumer Grade, †
+Cobblestone,MAC-10,Indigo,Consumer Grade, †
+Cobblestone,SCAR-20,Storm,Consumer Grade, †
+Cobblestone,Dual Berettas,Briar,Consumer Grade, †
+Cobblestone,USP-S,Royal Blue,Industrial Grade, †
+Cobblestone,Nova,Green Apple,Industrial Grade, †
+Cobblestone,MAG-7,Silver,Industrial Grade, †
+Cobblestone,Sawed-Off,Rust Coat,Industrial Grade, †
+Cobblestone,P2000,Chainmail,Mil-Spec, †
+Cobblestone,MP9,Dark Age,Mil-Spec, †
+Cobblestone,Desert Eagle,Hand Cannon,Restricted, †
+Cobblestone,CZ75-Auto,Chalice,Restricted, †
+Cobblestone,M4A1-S,Knight,Classified, †
+Cobblestone,AWP,Dragon Lore,Covert, †
+Dust,M4A4,Desert Storm,Industrial Grade, 
+Dust,SCAR-20,Palm,Industrial Grade, 
+Dust,AK-47,Predator,Industrial Grade, 
+Dust,AWP,Snake Camo,Mil-Spec, 
+Dust,AUG,Copperhead,Mil-Spec, 
+Dust,Sawed-Off,Copper,Mil-Spec, 
+Dust,Desert Eagle,Blaze,Restricted, 
+Dust,P2000,Scorpion,Restricted, 
+Dust,Glock-18,Brass,Restricted, 
+Dust II,Nova,Predator,Consumer Grade, √
+Dust II,MP9,Sand Dashed,Consumer Grade, √
+Dust II,P90,Sand Spray,Consumer Grade, √
+Dust II,SCAR-20,Sand Mesh,Consumer Grade, √
+Dust II,P250,Sand Dune,Consumer Grade, √
+Dust II,G3SG1,Desert Storm,Consumer Grade, √
+Dust II,Tec-9,VariCamo,Industrial Grade, √
+Dust II,MAC-10,Palm,Industrial Grade, √
+Dust II,Five-SeveN,Orange Peel,Industrial Grade, √
+Dust II,AK-47,Safari Mesh,Industrial Grade, √
+Dust II,Sawed-Off,Snake Camo,Industrial Grade, √
+Dust II,M4A1-S,VariCamo,Mil-Spec, √
+Dust II,PP-Bizon,Brass,Mil-Spec, √
+Dust II,SG 553,Damascus Steel,Mil-Spec, √
+Dust II,P2000,Amber Fade,Restricted, √
+Dust II,R8 Revolver,Amber Fade *,Classified, √
+Inferno,MAG-7,Sand Dune,Consumer Grade, 
+Inferno,Nova,Walnut,Consumer Grade, 
+Inferno,P250,Gunsmoke,Industrial Grade, 
+Inferno,M4A4,Tornado,Industrial Grade, 
+Inferno,Dual Berettas,Anodized Navy,Mil-Spec, 
+Inferno,Tec-9,Brass,Mil-Spec, 
+Italy,PP-Bizon,Sand Dashed,Consumer Grade, √
+Italy,Nova,Sand Dune,Consumer Grade, √
+Italy,FAMAS,Colony,Consumer Grade, √
+Italy,AUG,Contractor,Consumer Grade, √
+Italy,Tec-9,Groundwater,Consumer Grade, √
+Italy,Nova,Candy Apple,Industrial Grade, √
+Italy,Dual Berettas,Stained,Industrial Grade, √
+Italy,P2000,Granite Marbleized,Industrial Grade, √
+Italy,UMP-45,Gunsmoke,Industrial Grade, √
+Italy,M4A1-S,Boreal Forest,Industrial Grade, √
+Italy,XM1014,CaliCamo,Industrial Grade, √
+Italy,MP7,Anodized Navy,Mil-Spec, √
+Italy,Glock-18,Candy Apple,Mil-Spec, √
+Italy,Sawed-Off,Full Stop,Mil-Spec, √
+Italy,AWP,Pit Viper,Restricted, √
+Lake,G3SG1,Jungle Dashed,Consumer Grade, √
+Lake,SG 553,Waves Perforated,Consumer Grade, √
+Lake,Galil AR,Sage Spray,Consumer Grade, √
+Lake,AUG,Storm,Consumer Grade, √
+Lake,XM1014,Blue Spruce,Consumer Grade, √
+Lake,P250,Boreal Forest,Consumer Grade, √
+Lake,XM1014,Blue Steel,Industrial Grade, √
+Lake,FAMAS,Cyanospatter,Industrial Grade, √
+Lake,PP-Bizon,Night Ops,Industrial Grade, √
+Lake,AWP,Safari Mesh,Industrial Grade, √
+Lake,Desert Eagle,Mudder,Industrial Grade, √
+Lake,SG 553,Anodized Navy,Mil-Spec, √
+Lake,P90,Teardown,Mil-Spec, √
+Lake,USP-S,Night Ops,Mil-Spec, √
+Lake,Dual Berettas,Cobalt Quartz,Restricted, √
+Militia,XM1014,Grassland,Consumer Grade, √
+Militia,MAC-10,Tornado,Consumer Grade, √
+Militia,PP-Bizon,Forest Leaves,Consumer Grade, √
+Militia,P2000,Grassland Leaves *,Industrial Grade, √
+Militia,Nova,Modern Hunter,Mil-Spec, √
+Militia,Nova,Blaze Orange,Mil-Spec, √
+Militia,P250,Modern Hunter,Mil-Spec, √
+Militia,XM1014,Blaze Orange,Mil-Spec, √
+Militia,PP-Bizon,Modern Hunter,Mil-Spec, √
+Militia,M4A4,Modern Hunter *,Restricted, √
+Militia,SCAR-20,Splash Jam,Classified, √
+Mirage,Galil AR,Hunting Blind,Consumer Grade, √
+Mirage,P90,Scorched,Consumer Grade, √
+Mirage,G3SG1,Safari Mesh,Consumer Grade, √
+Mirage,AUG,Colony,Consumer Grade, √
+Mirage,Five-SeveN,Contractor,Consumer Grade, √
+Mirage,P250,Bone Mask,Consumer Grade, √
+Mirage,MP7,Orange Peel,Industrial Grade, √
+Mirage,Glock-18,Groundwater,Industrial Grade, √
+Mirage,SG 553,Gator Mesh,Industrial Grade, √
+Mirage,SSG 08,Tropical Storm,Industrial Grade, √
+Mirage,Negev,CaliCamo,Industrial Grade, √
+Mirage,MP9,Hot Rod,Mil-Spec, √
+Mirage,UMP-45,Blaze,Mil-Spec, √
+Mirage,MAC-10,Amber Fade,Mil-Spec, √
+Mirage,MAG-7,Bulldozer,Restricted, √
+Nuke,MAG-7,Irradiated Alert,Consumer Grade, 
+Nuke,Sawed-Off,Irradiated Alert,Consumer Grade, 
+Nuke,PP-Bizon,Irradiated Alert,Consumer Grade, 
+Nuke,P90,Fallout Warning,Industrial Grade, 
+Nuke,UMP-45,Fallout Warning,Industrial Grade, 
+Nuke,XM1014,Fallout Warning,Industrial Grade, 
+Nuke,M4A4,Radiation Hazard,Mil-Spec, 
+Nuke,P250,Nuclear Threat,Restricted, 
+Nuke,Tec-9,Nuclear Threat,Restricted, 
+Office,FAMAS,Contrast Spray,Consumer Grade, √
+Office,Galil AR,Winter Forest,Industrial Grade, √
+Office,G3SG1,Arctic Camo,Industrial Grade, √
+Office,M249,Blizzard Marbleized,Industrial Grade, √
+Office,P2000,Silver,Mil-Spec, √
+Office,MP7,Whiteout,Mil-Spec, √
+Overpass,Sawed-Off,Sage Spray,Consumer Grade, †
+Overpass,UMP-45,Scorched,Consumer Grade, †
+Overpass,M249,Contrast Spray,Consumer Grade, †
+Overpass,MAG-7,Storm,Consumer Grade, †
+Overpass,MP9,Storm,Consumer Grade, †
+Overpass,Desert Eagle,Urban DDPAT,Industrial Grade, †
+Overpass,MP7,Gunsmoke,Industrial Grade, †
+Overpass,Glock-18,Night,Industrial Grade, †
+Overpass,P2000,Grassland,Industrial Grade, †
+Overpass,CZ75-Auto,Nitro,Mil-Spec, †
+Overpass,SSG 08,Detour,Mil-Spec, †
+Overpass,XM1014,VariCamo Blue,Mil-Spec, †
+Overpass,AWP,Pink DDPAT,Restricted, †
+Overpass,USP-S,Road Rash,Restricted, †
+Overpass,M4A1-S,Master Piece,Classified, †
+Safehouse,Dual Berettas,Contractor,Consumer Grade, √
+Safehouse,MP7,Army Recon,Consumer Grade, √
+Safehouse,Tec-9,Army Mesh,Consumer Grade, √
+Safehouse,SSG 08,Blue Spruce,Consumer Grade, √
+Safehouse,SCAR-20,Contractor,Consumer Grade, √
+Safehouse,MP9,Orange Peel,Industrial Grade, √
+Safehouse,AUG,Condemned,Industrial Grade, √
+Safehouse,USP-S,Forest Leaves,Industrial Grade, √
+Safehouse,Galil AR,VariCamo,Industrial Grade, √
+Safehouse,M249,Gator Mesh,Industrial Grade, √
+Safehouse,G3SG1,VariCamo,Industrial Grade, √
+Safehouse,FAMAS,Teardown,Mil-Spec, √
+Safehouse,Five-SeveN,Silver Quartz,Mil-Spec, √
+Safehouse,SSG 08,Acid Fade,Mil-Spec, √
+Safehouse,M4A1-S,Nitro,Restricted, √
+Train,PP-Bizon,Urban Dashed,Consumer Grade, √
+Train,Nova,Polar Mesh,Consumer Grade, √
+Train,Five-SeveN,Forest Night,Consumer Grade, √
+Train,G3SG1,Polar Camo,Consumer Grade, √
+Train,Dual Berettas,Colony,Consumer Grade, √
+Train,UMP-45,Urban DDPAT,Consumer Grade, √
+Train,M4A4,Urban DDPAT,Industrial Grade, √
+Train,MAC-10,Candy Apple,Industrial Grade, √
+Train,P90,Ash Wood,Industrial Grade, √
+Train,SCAR-20,Carbon Fiber,Industrial Grade, √
+Train,MAG-7,Metallic DDPAT,Industrial Grade, √
+Train,P250,Metallic DDPAT,Industrial Grade, √
+Train,Sawed-Off,Amber Fade,Mil-Spec, √
+Train,Desert Eagle,Urban Rubble,Mil-Spec, √
+Train,Tec-9,Red Quartz,Restricted, √
+Vertigo,XM1014,Urban Perforated,Consumer Grade, √
+Vertigo,MAC-10,Urban DDPAT,Consumer Grade, √
+Vertigo,PP-Bizon,Carbon Fiber,Industrial Grade, √
+Vertigo,P90,Glacier Mesh,Mil-Spec, √
+Vertigo,AK-47,Black Laminate,Mil-Spec, √
+Vertigo,Dual Berettas,Demolition,Restricted, √
+Inferno 2018,MAG-7,Rust Coat,Consumer Grade, √
+Inferno 2018,AUG,Sweeper,Consumer Grade, √
+Inferno 2018,UMP-45,Mudder,Consumer Grade, √
+Inferno 2018,MP9,Slide,Consumer Grade, √
+Inferno 2018,MP5-SD,Dirt Drop,Consumer Grade, √
+Inferno 2018,PP-Bizon,Candy Apple,Industrial Grade, √
+Inferno 2018,MAC-10,Calf Skin,Industrial Grade, √
+Inferno 2018,R8 Revolver,Nitro,Industrial Grade, √
+Inferno 2018,Glock-18,High Beam,Industrial Grade, √
+Inferno 2018,Sawed-Off,Brake Light,Mil-Spec, √
+Inferno 2018,SSG 08,Hand Brake,Mil-Spec, √
+Inferno 2018,USP-S,Check Engine,Mil-Spec, √
+Inferno 2018,M4A4,Converter,Mil-Spec, √
+Inferno 2018,P250,Vino Primo,Restricted, √
+Inferno 2018,MP7,Fade,Restricted, √
+Inferno 2018,AK-47,Safety Net,Restricted, √
+Inferno 2018,Dual Berettas,Twin Turbo,Classified, √
+Inferno 2018,SG 553,Integrale,Classified, √
+Nuke 2018,Nova,Mandrel,Consumer Grade, √
+Nuke 2018,PP-Bizon,Facility Sketch,Consumer Grade, √
+Nuke 2018,UMP-45,Facility Dark,Consumer Grade, √
+Nuke 2018,Five-SeveN,Coolant,Consumer Grade, √
+Nuke 2018,P250,Facility Draft,Consumer Grade, √
+Nuke 2018,MP7,Motherboard,Industrial Grade, √
+Nuke 2018,Negev,Bulkhead,Industrial Grade, √
+Nuke 2018,Galil AR,Cold Fusion,Industrial Grade, √
+Nuke 2018,M4A4,Mainframe,Industrial Grade, √
+Nuke 2018,P250,Exchanger,Mil-Spec, √
+Nuke 2018,P90,Facility Negative,Mil-Spec, √
+Nuke 2018,MP5-SD,Co-Processor,Mil-Spec, √
+Nuke 2018,AWP,Acheron,Mil-Spec, √
+Nuke 2018,MAG-7,Core Breach,Restricted, √
+Nuke 2018,AUG,Random Access,Restricted, √
+Nuke 2018,Glock-18,Nuclear Garden,Restricted, √
+Nuke 2018,Tec-9,Remote Control,Classified, √
+Nuke 2018,M4A1-S,Control Panel,Classified, √
+Blacksite,MP5-SD,Lab Rats,Restricted,
+,,,,
+Chop Shop,SCAR-20,Army Sheen,Consumer Grade, †
+Chop Shop,CZ75-Auto,Army Sheen,Consumer Grade, †
+Chop Shop,M249,Impact Drill,Consumer Grade, †
+Chop Shop,MAG-7,Seabird,Consumer Grade, †
+Chop Shop,Desert Eagle,Night,Industrial Grade, †
+Chop Shop,Galil AR,Urban Rubble,Industrial Grade, †
+Chop Shop,USP-S,Para Green,Industrial Grade, †
+Chop Shop,MAC-10,Fade,Mil-Spec, †
+Chop Shop,P250,Whiteout,Mil-Spec, †
+Chop Shop,MP7,Full Stop,Mil-Spec, †
+Chop Shop,Five-SeveN,Nitro,Mil-Spec, †
+Chop Shop,CZ75-Auto,Emerald,Mil-Spec, †
+Chop Shop,SG 553,Bulldozer,Restricted, †
+Chop Shop,Dual Berettas,Duelist,Restricted, †
+Chop Shop,Glock-18,Twilight Galaxy,Classified, †
+Chop Shop,M4A1-S,Hot Rod,Classified, †
+Gods and Monsters,MP7,Asterion,Consumer Grade, †
+Gods and Monsters,AUG,Daedalus,Consumer Grade, †
+Gods and Monsters,Dual Berettas,Moon in Libra,Consumer Grade, †
+Gods and Monsters,Nova,Moon in Libra,Consumer Grade, †
+Gods and Monsters,Tec-9,Hades,Industrial Grade, †
+Gods and Monsters,P2000,Pathfinder,Industrial Grade, †
+Gods and Monsters,AWP,Sun in Leo,Industrial Grade, †
+Gods and Monsters,M249,Shipping Forecast,Industrial Grade, †
+Gods and Monsters,UMP-45,Minotaur's Labyrinth,Mil-Spec, †
+Gods and Monsters,MP9,Pandora's Box,Mil-Spec, †
+Gods and Monsters,G3SG1,Chronos,Restricted, †
+Gods and Monsters,M4A1-S,Icarus Fell,Restricted, †
+Gods and Monsters,M4A4,Poseidon,Classified, †
+Gods and Monsters,AWP,Medusa,Covert, †
+Rising Sun,PP-Bizon,Bamboo Print,Consumer Grade, †
+Rising Sun,Sawed-Off,Bamboo Shadow,Consumer Grade, †
+Rising Sun,Tec-9,Bamboo Forest,Consumer Grade, †
+Rising Sun,G3SG1,Orange Kimono,Consumer Grade, †
+Rising Sun,P250,Mint Kimono,Consumer Grade, †
+Rising Sun,P250,Crimson Kimono,Industrial Grade, †
+Rising Sun,Desert Eagle,Midnight Storm,Industrial Grade, †
+Rising Sun,Galil AR,Aqua Terrace,Mil-Spec, †
+Rising Sun,MAG-7,Counter Terrace,Mil-Spec, †
+Rising Sun,Tec-9,Terrace,Mil-Spec, †
+Rising Sun,Five-SeveN,Neon Kimono,Restricted, †
+Rising Sun,Desert Eagle,Sunset Storm 壱,Restricted, †
+Rising Sun,Desert Eagle,Sunset Storm 弐,Restricted, †
+Rising Sun,M4A4,Daybreak,Restricted, †
+Rising Sun,AK-47,Hydroponic,Classified, †
+Rising Sun,AUG,Akihabara Accept,Covert, †
+Alpha,M249,Jungle DDPAT,Consumer Grade,x
+Alpha,Tec-9,Tornado,Consumer Grade,x
+Alpha,MP9,Dry Season,Consumer Grade,x
+Alpha,Five-SeveN,Anodized Gunmetal,Consumer Grade,x
+Alpha,XM1014,Jungle,Consumer Grade,x
+Alpha,MP7,Groundwater,Consumer Grade,x
+Alpha,Glock-18,Sand Dune,Industrial Grade,x
+Alpha,SSG 08,Mayan Dreams,Industrial Grade,x
+Alpha,Negev,Palm,Industrial Grade,x
+Alpha,Sawed-Off,Mosaico,Industrial Grade,x
+Alpha,P250,Facets,Industrial Grade,x
+Alpha,AUG,Anodized Navy,Mil-Spec,x
+Alpha,MAG-7,Hazard,Mil-Spec,x
+Alpha,PP-Bizon,Rust Coat,Mil-Spec,x
+Alpha,FAMAS,Spitfire,Restricted,x
+Alpha,SCAR-20,Emerald,Restricted,x
+Norse,SG 553,Barricade,Consumer Grade, †
+Norse,FAMAS,Night Borre,Consumer Grade, †
+Norse,MP7,Scorched,Consumer Grade, †
+Norse,Galil AR,Tornado,Consumer Grade, †
+Norse,SSG 08,Red Stone,Consumer Grade, †
+Norse,MAG-7,Chainmail,Industrial Grade, †
+Norse,M4A1-S,Moss Quartz,Industrial Grade, †
+Norse,USP-S,Pathfinder,Industrial Grade, †
+Norse,Dual Berettas,Pyre,Industrial Grade, †
+Norse,SCAR-20,Brass,Mil-Spec, †
+Norse,CZ75-Auto,Emerald Quartz,Mil-Spec, †
+Norse,MAC-10,Copper Borre,Mil-Spec, †
+Norse,XM1014,Frost Borre,Mil-Spec, †
+Norse,P90,Astral Jörmungandr,Restricted, †
+Norse,AUG,Flame Jörmungandr,Restricted, †
+Norse,Desert Eagle,Emerald Jörmungandr,Restricted, †
+Norse,Negev,Mjölnir,Classified, †
+Norse,AWP,Gungnir,Covert, †
+St. Marc,M249,Jungle,Consumer Grade, †
+St. Marc,MP5-SD,Bamboo Garden,Consumer Grade, †
+St. Marc,MAC-10,Surfwood,Consumer Grade, †
+St. Marc,PP-Bizon,Seabird,Consumer Grade, †
+St. Marc,Sawed-Off,Jungle Thicket,Consumer Grade, †
+St. Marc,M4A4,Dark Blossom,Industrial Grade, †
+St. Marc,P90,Sunset Lily,Industrial Grade, †
+St. Marc,Tec-9,Rust Leaf,Industrial Grade, †
+St. Marc,XM1014,Banana Leaf,Industrial Grade, †
+St. Marc,MP7,Teal Blossom,Mil-Spec, †
+St. Marc,Five-SeveN,Crimson Blossom,Mil-Spec, †
+St. Marc,FAMAS,Sundown,Mil-Spec, †
+St. Marc,UMP-45,Day Lily,Mil-Spec, †
+St. Marc,AUG,Midnight Lily,Restricted, †
+St. Marc,SSG 08,Sea Calico,Restricted, †
+St. Marc,Glock-18,Synth Leaf,Restricted, †
+St. Marc,MP9,Wild Lily,Classified, †
+St. Marc,AK-47,Wild Lotus,Covert, †
+,,,,
+Arms Deal,MP7,Skulls,Mil-Spec,
+Arms Deal,SG 553,Ultraviolet,Mil-Spec,
+Arms Deal,AUG,Wings,Mil-Spec,
+Arms Deal,M4A1-S,Dark Water,Restricted,
+Arms Deal,USP-S,Dark Water,Restricted,
+Arms Deal,Glock-18,Dragon Tattoo,Restricted,
+Arms Deal,Desert Eagle,Hypnotic,Classified,
+Arms Deal,AK-47,Case Hardened,Classified,
+Arms Deal,AWP,Lightning Strike,Covert,
+eSports 2013,M4A4,Faded Zebra,Mil-Spec,
+eSports 2013,FAMAS,Doomkitty,Mil-Spec,
+eSports 2013,MAG-7,Memento,Mil-Spec,
+eSports 2013,Sawed-Off,Orange DDPAT,Restricted,
+eSports 2013,P250,Splash,Restricted,
+eSports 2013,Galil AR,Orange DDPAT,Restricted,
+eSports 2013,AK-47,Red Laminate,Classified,
+eSports 2013,AWP,BOOM,Classified,
+eSports 2013,P90,Death by Kitty,Covert,
+Bravo,Nova,Tempest,Mil-Spec,
+Bravo,Dual Berettas,Black Limba,Mil-Spec,
+Bravo,UMP-45,Bone Pile,Mil-Spec,
+Bravo,SG 553,Wave Spray,Mil-Spec,
+Bravo,Galil AR,Shattered,Mil-Spec,
+Bravo,G3SG1,Demeter,Mil-Spec,
+Bravo,M4A1-S,Bright Water,Restricted,
+Bravo,M4A4,Zirka,Restricted,
+Bravo,MAC-10,Graven,Restricted,
+Bravo,USP-S,Overgrowth,Restricted,
+Bravo,P90,Emerald Dragon,Classified,
+Bravo,P2000,Ocean Foam,Classified,
+Bravo,AWP,Graphite,Classified,
+Bravo,Desert Eagle,Golden Koi,Covert,
+Bravo,AK-47,Fire Serpent,Covert,
+Arms Deal Two,Tec-9,Blue Titanium,Mil-Spec,
+Arms Deal Two,M4A1-S,Blood Tiger,Mil-Spec,
+Arms Deal Two,FAMAS,Hexane,Mil-Spec,
+Arms Deal Two,P250,Hive,Mil-Spec,
+Arms Deal Two,SCAR-20,Crimson Web,Mil-Spec,
+Arms Deal Two,Five-SeveN,Case Hardened,Restricted,
+Arms Deal Two,MP9,Hypnotic,Restricted,
+Arms Deal Two,Nova,Graphite,Restricted,
+Arms Deal Two,Dual Berettas,Hemoglobin,Restricted,
+Arms Deal Two,P90,Cold Blooded,Classified,
+Arms Deal Two,USP-S,Serum,Classified,
+Arms Deal Two,SSG 08,Blood in the Water,Covert,
+Winter Offensive,PP-Bizon,Cobalt Halftone,Mil-Spec,
+Winter Offensive,M249,Magma,Mil-Spec,
+Winter Offensive,Five-SeveN,Kami,Mil-Spec,
+Winter Offensive,Galil AR,Sandstorm,Mil-Spec,
+Winter Offensive,Nova,Rising Skull,Restricted,
+Winter Offensive,MP9,Rose Iron,Restricted,
+Winter Offensive,Dual Berettas,Marina,Restricted,
+Winter Offensive,FAMAS,Pulse,Restricted,
+Winter Offensive,AWP,Redline,Classified,
+Winter Offensive,P250,Mehndi,Classified,
+Winter Offensive,M4A1-S,Guardian,Classified,
+Winter Offensive,Sawed-Off,The Kraken,Covert,
+Winter Offensive,M4A4,Asiimov,Covert,
+eSports 2013 Winter,Galil AR,Blue Titanium,Mil-Spec,
+eSports 2013 Winter,Five-SeveN,Nightshade,Mil-Spec,
+eSports 2013 Winter,PP-Bizon,Water Sigil,Mil-Spec,
+eSports 2013 Winter,Nova,Ghost Camo,Mil-Spec,
+eSports 2013 Winter,G3SG1,Azure Zebra,Mil-Spec,
+eSports 2013 Winter,P250,Steel Disruption,Mil-Spec,
+eSports 2013 Winter,AK-47,Blue Laminate,Restricted,
+eSports 2013 Winter,P90,Blind Spot,Restricted,
+eSports 2013 Winter,FAMAS,Afterimage,Classified,
+eSports 2013 Winter,AWP,Electric Hive,Classified,
+eSports 2013 Winter,Desert Eagle,Cobalt Disruption,Classified,
+eSports 2013 Winter,M4A4,X-Ray,Covert,
+Arms Deal 3,CZ75-Auto,Crimson Web,Mil-Spec,
+Arms Deal 3,P2000,Red FragCam,Mil-Spec,
+Arms Deal 3,Dual Berettas,Panther,Mil-Spec,
+Arms Deal 3,USP-S,Stainless,Mil-Spec,
+Arms Deal 3,Glock-18,Blue Fissure,Mil-Spec,
+Arms Deal 3,CZ75-Auto,Tread Plate,Restricted,
+Arms Deal 3,Tec-9,Titanium Bit,Restricted,
+Arms Deal 3,Desert Eagle,Heirloom,Restricted,
+Arms Deal 3,Five-SeveN,Copper Galaxy,Restricted,
+Arms Deal 3,CZ75-Auto,The Fuschia Is Now,Classified,
+Arms Deal 3,P250,Undertow,Classified,
+Arms Deal 3,CZ75-Auto,Victoria,Covert,
+Phoenix,UMP-45,Corporal,Mil-Spec,
+Phoenix,Negev,Terrain,Mil-Spec,
+Phoenix,Tec-9,Sandstorm,Mil-Spec,
+Phoenix,MAG-7,Heaven Guard,Mil-Spec,
+Phoenix,MAC-10,Heat,Restricted,
+Phoenix,SG 553,Pulse,Restricted,
+Phoenix,FAMAS,Sergeant,Restricted,
+Phoenix,USP-S,Guardian,Restricted,
+Phoenix,AK-47,Redline,Classified,
+Phoenix,P90,Trigon,Classified,
+Phoenix,Nova,Antique,Classified,
+Phoenix,AWP,Asiimov,Covert,
+Phoenix,AUG,Chameleon,Covert,
+Huntsman,Tec-9,Isaac,Mil-Spec,
+Huntsman,SSG 08,Slashed,Mil-Spec,
+Huntsman,Dual Berettas,Retribution **,Mil-Spec,
+Huntsman,Galil AR,Kami,Mil-Spec,
+Huntsman,P90,Desert Warfare **,Mil-Spec,
+Huntsman,CZ75-Auto,Poison Dart **,Mil-Spec,
+Huntsman,CZ75-Auto,Twist *,Mil-Spec,
+Huntsman,P90,Module *,Mil-Spec,
+Huntsman,P2000,Pulse *,Mil-Spec,
+Huntsman,AUG,Torque,Restricted,
+Huntsman,PP-Bizon,Antique,Restricted,
+Huntsman,XM1014,Heaven Guard,Restricted,
+Huntsman,MAC-10,Curse **,Restricted,
+Huntsman,MAC-10,Tatter *,Restricted,
+Huntsman,M4A1-S,Atomic Alloy,Classified,
+Huntsman,SCAR-20,Cyrex,Classified,
+Huntsman,USP-S,Orion **,Classified,
+Huntsman,USP-S,Caiman *,Classified,
+Huntsman,AK-47,Vulcan,Covert,
+Huntsman,M4A4,Desert-Strike *,Covert,
+Huntsman,M4A4,Howl **,Contraband,
+Breakout,MP7,Urban Hazard,Mil-Spec,
+Breakout,Negev,Desert-Strike,Mil-Spec,
+Breakout,P2000,Ivory,Mil-Spec,
+Breakout,SSG 08,Abyss,Mil-Spec,
+Breakout,UMP-45,Labyrinth,Mil-Spec,
+Breakout,PP-Bizon,Osiris,Restricted,
+Breakout,CZ75-Auto,Tigris,Restricted,
+Breakout,Nova,Koi,Restricted,
+Breakout,P250,Supernova,Restricted,
+Breakout,Desert Eagle,Conspiracy,Classified,
+Breakout,Five-SeveN,Fowl Play,Classified,
+Breakout,Glock-18,Water Elemental,Classified,
+Breakout,P90,Asiimov,Covert,
+Breakout,M4A1-S,Cyrex,Covert,
+eSports 2014 Summer,SSG 08,Dark Water,Mil-Spec,
+eSports 2014 Summer,MAC-10,Ultraviolet,Mil-Spec,
+eSports 2014 Summer,USP-S,Blood Tiger,Mil-Spec,
+eSports 2014 Summer,CZ75-Auto,Hexane,Mil-Spec,
+eSports 2014 Summer,Negev,Bratatat,Mil-Spec,
+eSports 2014 Summer,XM1014,Red Python,Mil-Spec,
+eSports 2014 Summer,PP-Bizon,Blue Streak,Restricted,
+eSports 2014 Summer,P90,Virus,Restricted,
+eSports 2014 Summer,MP7,Ocean Foam,Restricted,
+eSports 2014 Summer,Glock-18,Steel Disruption,Restricted,
+eSports 2014 Summer,Desert Eagle,Crimson Web,Restricted,
+eSports 2014 Summer,AUG,Bengal Tiger,Classified,
+eSports 2014 Summer,Nova,Bloomstick,Classified,
+eSports 2014 Summer,AWP,Corticera,Classified,
+eSports 2014 Summer,P2000,Corticera,Classified,
+eSports 2014 Summer,M4A4,Bullet Rain,Covert,
+eSports 2014 Summer,AK-47,Jaguar,Covert,
+Vanguard,G3SG1,Murky,Mil-Spec,
+Vanguard,MAG-7,Firestarter,Mil-Spec,
+Vanguard,MP9,Dart,Mil-Spec,
+Vanguard,Five-SeveN,Urban Hazard,Mil-Spec,
+Vanguard,UMP-45,Delusion,Mil-Spec,
+Vanguard,Glock-18,Grinder,Restricted,
+Vanguard,M4A1-S,Basilisk,Restricted,
+Vanguard,M4A4,Griffin,Restricted,
+Vanguard,Sawed-Off,Highwayman,Restricted,
+Vanguard,P250,Cartel,Classified,
+Vanguard,SCAR-20,Cardiac,Classified,
+Vanguard,XM1014,Tranquility,Classified,
+Vanguard,AK-47,Wasteland Rebel,Covert,
+Vanguard,P2000,Fire Elemental,Covert,
+Chroma,Glock-18,Catacombs,Mil-Spec,
+Chroma,M249,System Lock,Mil-Spec,
+Chroma,MP9,Deadly Poison,Mil-Spec,
+Chroma,SCAR-20,Grotto,Mil-Spec,
+Chroma,XM1014,Quicksilver,Mil-Spec,
+Chroma,Dual Berettas,Urban Shock,Restricted,
+Chroma,Desert Eagle,Naga,Restricted,
+Chroma,MAC-10,Malachite,Restricted,
+Chroma,Sawed-Off,Serenity,Restricted,
+Chroma,AK-47,Cartel,Classified,
+Chroma,M4A4,龍王 (Dragon King),Classified,
+Chroma,P250,Muertos,Classified,
+Chroma,AWP,Man-o'-war,Covert,
+Chroma,Galil AR,Chatterbox,Covert,
+Chroma 2,AK-47,Elite Build,Mil-Spec,
+Chroma 2,MP7,Armor Core,Mil-Spec,
+Chroma 2,Desert Eagle,Bronze Deco,Mil-Spec,
+Chroma 2,P250,Valence,Mil-Spec,
+Chroma 2,Negev,Man-o'-war,Mil-Spec,
+Chroma 2,Sawed-Off,Origami,Mil-Spec,
+Chroma 2,AWP,Worm God,Restricted,
+Chroma 2,MAG-7,Heat,Restricted,
+Chroma 2,CZ75-Auto,Pole Position,Restricted,
+Chroma 2,UMP-45,Grand Prix,Restricted,
+Chroma 2,Five-SeveN,Monkey Business,Classified,
+Chroma 2,Galil AR,Eco,Classified,
+Chroma 2,FAMAS,Djinn,Classified,
+Chroma 2,M4A1-S,Hyper Beast,Covert,
+Chroma 2,MAC-10,Neon Rider,Covert,
+Falchion Case,Galil AR,Rocket Pop,Mil-Spec,
+Falchion Case,Glock-18,Bunsen Burner,Mil-Spec,
+Falchion Case,Nova,Ranger,Mil-Spec,
+Falchion Case,P90,Elite Build,Mil-Spec,
+Falchion Case,UMP-45,Riot,Mil-Spec,
+Falchion Case,USP-S,Torque,Mil-Spec,
+Falchion Case,FAMAS,Neural Net,Restricted,
+Falchion Case,M4A4,Evil Daimyo,Restricted,
+Falchion Case,MP9,Ruby Poison Dart,Restricted,
+Falchion Case,Negev,Loudmouth,Restricted,
+Falchion Case,P2000,Handgun,Restricted,
+Falchion Case,CZ75-Auto,Yellow Jacket,Classified,
+Falchion Case,MP7,Nemesis,Classified,
+Falchion Case,SG 553,Cyrex,Classified,
+Falchion Case,AK-47,Aquamarine Revenge,Covert,
+Falchion Case,AWP,Hyper Beast,Covert,
+Shadow Case,Dual Berettas,Dualing Dragons,Mil-Spec,
+Shadow Case,FAMAS,Survivor Z,Mil-Spec,
+Shadow Case,Glock-18,Wraiths,Mil-Spec,
+Shadow Case,MAC-10,Rangeen,Mil-Spec,
+Shadow Case,MAG-7,Cobalt Core,Mil-Spec,
+Shadow Case,SCAR-20,Green Marine,Mil-Spec,
+Shadow Case,XM1014,Scumbria,Mil-Spec,
+Shadow Case,Galil AR,Stone Cold,Restricted,
+Shadow Case,M249,Nebula Crusader,Restricted,
+Shadow Case,MP7,Special Delivery,Restricted,
+Shadow Case,P250,Wingshot,Restricted,
+Shadow Case,AK-47,Frontside Misty,Classified,
+Shadow Case,G3SG1,Flux,Classified,
+Shadow Case,SSG 08,Big Iron,Classified,
+Shadow Case,M4A1-S,Golden Coil,Covert,
+Shadow Case,USP-S,Kill Confirmed,Covert,
+Revolver Case,R8 Revolver,Crimson Web,Mil-Spec,
+Revolver Case,AUG,Ricochet,Mil-Spec,
+Revolver Case,Desert Eagle,Corinthian,Mil-Spec,
+Revolver Case,P2000,Imperial,Mil-Spec,
+Revolver Case,Sawed-Off,Yorick,Mil-Spec,
+Revolver Case,PP-Bizon,Fuel Rod,Restricted,
+Revolver Case,Five-SeveN,Retrobution,Restricted,
+Revolver Case,Negev,Power Loader,Restricted,
+Revolver Case,SG 553,Tiger Moth,Restricted,
+Revolver Case,Tec-9,Avalanche,Restricted,
+Revolver Case,XM1014,Teclu Burner,Restricted,
+Revolver Case,AK-47,Point Disarray,Classified,
+Revolver Case,G3SG1,The Executioner,Classified,
+Revolver Case,P90,Shapewood,Classified,
+Revolver Case,M4A4,Royal Paladin,Covert,
+Revolver Case,R8 Revolver,Fade,Covert,
+Operation Wildfire Case,PP-Bizon,Photic Zone,Mil-Spec,
+Operation Wildfire Case,Dual Berettas,Cartel,Mil-Spec,
+Operation Wildfire Case,MAC-10,Lapis Gator,Mil-Spec,
+Operation Wildfire Case,SSG 08,Necropos,Mil-Spec,
+Operation Wildfire Case,Tec-9,Jambiya,Mil-Spec,
+Operation Wildfire Case,USP-S,Lead Conduit,Mil-Spec,
+Operation Wildfire Case,FAMAS,Valence,Restricted,
+Operation Wildfire Case,Five-SeveN,Triumvirate,Restricted,
+Operation Wildfire Case,Glock-18,Royal Legion,Restricted,
+Operation Wildfire Case,MAG-7,Praetorian,Restricted,
+Operation Wildfire Case,MP7,Impire,Restricted,
+Operation Wildfire Case,AWP,Elite Build,Classified,
+Operation Wildfire Case,Desert Eagle,Kumicho Dragon,Classified,
+Operation Wildfire Case,Nova,Hyper Beast,Classified,
+Operation Wildfire Case,M4A4,The Battlestar,Covert,
+Operation Wildfire Case,AK-47,Fuel Injector,Covert,
+Chroma 3 Case,Dual Berettas,Ventilators,Mil-Spec,
+Chroma 3 Case,G3SG1,Orange Crash,Mil-Spec,
+Chroma 3 Case,M249,Spectre,Mil-Spec,
+Chroma 3 Case,MP9,Bioleak,Mil-Spec,
+Chroma 3 Case,P2000,Oceanic,Mil-Spec,
+Chroma 3 Case,SG 553,Atlas,Mil-Spec,
+Chroma 3 Case,Sawed-Off,Fubar,Mil-Spec,
+Chroma 3 Case,Galil AR,Firefight,Restricted,
+Chroma 3 Case,CZ75-Auto,Red Astor,Restricted,
+Chroma 3 Case,XM1014,Black Tie,Restricted,
+Chroma 3 Case,SSG 08,Ghost Crusader,Restricted,
+Chroma 3 Case,Tec-9,Re-Entry,Restricted,
+Chroma 3 Case,UMP-45,Primal Saber,Classified,
+Chroma 3 Case,P250,Asiimov,Classified,
+Chroma 3 Case,AUG,Fleet Flock,Classified,
+Chroma 3 Case,M4A1-S,Chantico's Fire,Covert,
+Chroma 3 Case,PP-Bizon,Judgement of Anubis,Covert,
+Gamma Case,Five-SeveN,Violent Daimyo,Mil-Spec,
+Gamma Case,MAC-10,Carnivore,Mil-Spec,
+Gamma Case,Nova,Exo,Mil-Spec,
+Gamma Case,P250,Iron Clad,Mil-Spec,
+Gamma Case,PP-Bizon,Harvester,Mil-Spec,
+Gamma Case,SG 553,Aerial,Mil-Spec,
+Gamma Case,Tec-9,Ice Cap,Mil-Spec,
+Gamma Case,AUG,Aristocrat,Restricted,
+Gamma Case,AWP,Phobos,Restricted,
+Gamma Case,P90,Chopper,Restricted,
+Gamma Case,R8 Revolver,Reboot,Restricted,
+Gamma Case,Sawed-Off,Limelight,Restricted,
+Gamma Case,M4A4,Desolate Space,Classified,
+Gamma Case,P2000,Imperial Dragon,Classified,
+Gamma Case,SCAR-20,Bloodsport,Classified,
+Gamma Case,Glock-18,Wasteland Rebel,Covert,
+Gamma Case,M4A1-S,Mecha Industries,Covert,
+Gamma 2 Case,XM1014,Slipstream,Mil-Spec,
+Gamma 2 Case,UMP-45,Briefing,Mil-Spec,
+Gamma 2 Case,P90,Grim,Mil-Spec,
+Gamma 2 Case,Negev,Dazzle,Mil-Spec,
+Gamma 2 Case,G3SG1,Ventilator,Mil-Spec,
+Gamma 2 Case,Five-SeveN,Scumbria,Mil-Spec,
+Gamma 2 Case,CZ75-Auto,Imprint,Mil-Spec,
+Gamma 2 Case,SG 553,Triarch,Restricted,
+Gamma 2 Case,SCAR-20,Powercore,Restricted,
+Gamma 2 Case,MAG-7,Petroglyph,Restricted,
+Gamma 2 Case,Glock-18,Weasel,Restricted,
+Gamma 2 Case,Desert Eagle,Directive,Restricted,
+Gamma 2 Case,Tec-9,Fuel Injector,Classified,
+Gamma 2 Case,MP9,Airlock,Classified,
+Gamma 2 Case,AUG,Syd Mead,Classified,
+Gamma 2 Case,AK-47,Neon Revolution,Covert,
+Gamma 2 Case,FAMAS,Roll Cage,Covert,
+Glove Case,P2000,Turf,Mil-Spec,
+Glove Case,MAG-7,Sonar,Mil-Spec,
+Glove Case,MP9,Sand Scale,Mil-Spec,
+Glove Case,Galil AR,Black Sand,Mil-Spec,
+Glove Case,MP7,Cirrus,Mil-Spec,
+Glove Case,Glock-18,Ironwork,Mil-Spec,
+Glove Case,CZ75-Auto,Polymer,Mil-Spec,
+Glove Case,USP-S,Cyrex,Restricted,
+Glove Case,Nova,Gila,Restricted,
+Glove Case,M4A1-S,Flashback,Restricted,
+Glove Case,G3SG1,Stinger,Restricted,
+Glove Case,Dual Berettas,Royal Consorts,Restricted,
+Glove Case,Sawed-Off,Wasteland Princess,Classified,
+Glove Case,P90,Shallow Grave,Classified,
+Glove Case,FAMAS,Mecha Industries,Classified,
+Glove Case,M4A4,Buzz Kill,Covert,
+Glove Case,SSG 08,Dragonfire,Covert,
+Spectrum Case,PP-Bizon,Jungle Slipstream,Mil-Spec,
+Spectrum Case,SCAR-20,Blueprint,Mil-Spec,
+Spectrum Case,Desert Eagle,Oxide Blaze,Mil-Spec,
+Spectrum Case,Five-SeveN,Capillary,Mil-Spec,
+Spectrum Case,MP7,Akoben,Mil-Spec,
+Spectrum Case,P250,Ripple,Mil-Spec,
+Spectrum Case,Sawed-Off,Zander,Mil-Spec,
+Spectrum Case,Galil AR,Crimson Tsunami,Restricted,
+Spectrum Case,M249,Emerald Poison Dart,Restricted,
+Spectrum Case,MAC-10,Last Dive,Restricted,
+Spectrum Case,UMP-45,Scaffold,Restricted,
+Spectrum Case,XM1014,Seasons,Restricted,
+Spectrum Case,AWP,Fever Dream,Classified,
+Spectrum Case,CZ75-Auto,Xiangliu,Classified,
+Spectrum Case,M4A1-S,Decimator,Classified,
+Spectrum Case,AK-47,Bloodsport,Covert,
+Spectrum Case,USP-S,Neo-Noir,Covert,
+Operation Hydra Case,USP-S,Blueprint,Mil-Spec,
+Operation Hydra Case,FAMAS,Macabre,Mil-Spec,
+Operation Hydra Case,M4A1-S,Briefing,Mil-Spec,
+Operation Hydra Case,MAC-10,Aloha,Mil-Spec,
+Operation Hydra Case,MAG-7,Hard Water,Mil-Spec,
+Operation Hydra Case,Tec-9,Cut Out,Mil-Spec,
+Operation Hydra Case,UMP-45,Metal Flowers,Mil-Spec,
+Operation Hydra Case,AK-47,Orbit Mk01,Restricted,
+Operation Hydra Case,P2000,Woodsman,Restricted,
+Operation Hydra Case,P250,Red Rock,Restricted,
+Operation Hydra Case,P90,Death Grip,Restricted,
+Operation Hydra Case,SSG 08,Death's Head,Restricted,
+Operation Hydra Case,Dual Berettas,Cobra Strike,Classified,
+Operation Hydra Case,Galil AR,Sugar Rush,Classified,
+Operation Hydra Case,M4A4,Hellfire,Classified,
+Operation Hydra Case,Five-SeveN,Hyper Beast,Covert,
+Operation Hydra Case,AWP,Oni Taiji,Covert,
+Spectrum 2 Case,MAC-10,Oceanic,Mil-Spec,
+Spectrum 2 Case,Sawed-Off,Morris,Mil-Spec,
+Spectrum 2 Case,SCAR-20,Jungle Slipstream,Mil-Spec,
+Spectrum 2 Case,Five-SeveN,Capillary,Mil-Spec,
+Spectrum 2 Case,AUG,Triqua,Mil-Spec,
+Spectrum 2 Case,G3SG1,Hunter,Mil-Spec,
+Spectrum 2 Case,Tec-9,Cracked Opal,Mil-Spec,
+Spectrum 2 Case,Glock-18,Off World,Mil-Spec,
+Spectrum 2 Case,MP9,Goo,Restricted,
+Spectrum 2 Case,SG 553,Phantom,Restricted,
+Spectrum 2 Case,XM1014,Ziggy,Restricted,
+Spectrum 2 Case,UMP-45,Exposure,Restricted,
+Spectrum 2 Case,CZ75-Auto,Tacticat,Restricted,
+Spectrum 2 Case,PP-Bizon,High Roller,Classified,
+Spectrum 2 Case,R8 Revolver,Llama Cannon,Classified,
+Spectrum 2 Case,M4A1-S,Leaded Glass,Classified,
+Spectrum 2 Case,AK-47,The Empress,Covert,
+Spectrum 2 Case,P250,See Ya Later,Covert,
+Clutch Case,SG 553,Aloha,Mil-Spec,
+Clutch Case,MP9,Black Sand,Mil-Spec,
+Clutch Case,XM1014,Oxide Blaze,Mil-Spec,
+Clutch Case,P2000,Urban Hazard,Mil-Spec,
+Clutch Case,R8 Revolver,Grip,Mil-Spec,
+Clutch Case,Five-SeveN,Flame Test,Mil-Spec,
+Clutch Case,PP-Bizon,Night Riot,Mil-Spec,
+Clutch Case,Nova,Wild Six,Restricted,
+Clutch Case,Negev,Lionfish,Restricted,
+Clutch Case,MAG-7,SWAG-7,Restricted,
+Clutch Case,UMP-45,Arctic Wolf,Restricted,
+Clutch Case,Glock-18,Moonrise,Restricted,
+Clutch Case,USP-S,Cortex,Classified,
+Clutch Case,AUG,Stymphalian,Classified,
+Clutch Case,AWP,Mortis,Classified,
+Clutch Case,MP7,Bloodsport,Covert,
+Clutch Case,M4A4,Neo-Noir,Covert,
+Horizon Case,Dual Berettas,Shred,Mil-Spec,
+Horizon Case,R8 Revolver,Survivalist,Mil-Spec,
+Horizon Case,MP9,Capillary,Mil-Spec,
+Horizon Case,AUG,Amber Slipstream,Mil-Spec,
+Horizon Case,Tec-9,Snek-9,Mil-Spec,
+Horizon Case,P90,Traction,Mil-Spec,
+Horizon Case,Glock-18,Warhawk,Mil-Spec,
+Horizon Case,Nova,Toy Soldier,Restricted,
+Horizon Case,G3SG1,High Seas,Restricted,
+Horizon Case,MP7,Powercore,Restricted,
+Horizon Case,CZ75-Auto,Eco,Restricted,
+Horizon Case,AWP,PAW,Restricted,
+Horizon Case,FAMAS,Eye of Athena,Classified,
+Horizon Case,Sawed-Off,Devourer,Classified,
+Horizon Case,M4A1-S,Nightmare,Classified,
+Horizon Case,Desert Eagle,Code Red,Covert,
+Horizon Case,AK-47,Neon Rider,Covert,
+Danger Zone Case,MP9,Modest Threat,Mil-Spec,
+Danger Zone Case,Glock-18,Oxide Blaze,Mil-Spec,
+Danger Zone Case,Nova,Wood Fired,Mil-Spec,
+Danger Zone Case,M4A4,Magnesium,Mil-Spec,
+Danger Zone Case,Sawed-Off,Black Sand,Mil-Spec,
+Danger Zone Case,SG 553,Danger Close,Mil-Spec,
+Danger Zone Case,Tec-9,Fubar,Mil-Spec,
+Danger Zone Case,G3SG1,Scavenger,Restricted,
+Danger Zone Case,Galil AR,Signal,Restricted,
+Danger Zone Case,MAC-10,Pipe Down,Restricted,
+Danger Zone Case,P250,Nevermore,Restricted,
+Danger Zone Case,USP-S,Flashback,Restricted,
+Danger Zone Case,UMP-45,Momentum,Classified,
+Danger Zone Case,Desert Eagle,Mecha Industries,Classified,
+Danger Zone Case,MP5-SD,Phosphor,Classified,
+Danger Zone Case,AK-47,Asiimov,Covert,
+Danger Zone Case,AWP,Neo-Noir,Covert,
+Prisma Case,FAMAS,Crypsis,Mil-Spec,
+Prisma Case,AK-47,Uncharted,Mil-Spec,
+Prisma Case,MAC-10,Whitefish,Mil-Spec,
+Prisma Case,Galil AR,Akoben,Mil-Spec,
+Prisma Case,MP7,Mischief,Mil-Spec,
+Prisma Case,P250,Verdigris,Mil-Spec,
+Prisma Case,P90,Off World,Mil-Spec,
+Prisma Case,AWP,Atheris,Restricted,
+Prisma Case,Tec-9,Bamboozle,Restricted,
+Prisma Case,Desert Eagle,Light Rail,Restricted,
+Prisma Case,MP5-SD,Gauss,Restricted,
+Prisma Case,UMP-45,Moonrise,Restricted,
+Prisma Case,R8 Revolver,Skull Crusher,Classified,
+Prisma Case,AUG,Momentum,Classified,
+Prisma Case,XM1014,Incinegator,Classified,
+Prisma Case,Five-SeveN,Angry Mob,Covert,
+Prisma Case,M4A4,The Emperor,Covert,
+CS20 Case,Tec-9,Flash out,Mil-Spec,
+CS20 Case,SCAR-20,Assault,Mil-Spec,
+CS20 Case,Dual Berettas,Elite 1.6,Mil-Spec,
+CS20 Case,MAG-7,Popdog,Mil-Spec,
+CS20 Case,MAC-10,Classic Crate,Mil-Spec,
+CS20 Case,FAMAS,Decommissioned,Mil-Spec,
+CS20 Case,Glock-18,Sacrifice,Mil-Spec,
+CS20 Case,M249,Aztec,Restricted,
+CS20 Case,Five-SeveN,Buddy,Restricted,
+CS20 Case,UMP-45,Plastique,Restricted,
+CS20 Case,P250,Inferno,Restricted,
+CS20 Case,MP5-SD,Agent,Restricted,
+CS20 Case,P90,Nostalgia,Classified,
+CS20 Case,AUG,Death by Puppy,Classified,
+CS20 Case,MP9,Hydra,Classified,
+CS20 Case,FAMAS,Commemoration,Covert,
+CS20 Case,AWP,Wildfire,Covert,
+Shattered Web Case,Nova,Plume,Mil-Spec,
+Shattered Web Case,G3SG1,Black Sand,Mil-Spec,
+Shattered Web Case,R8 Revolver,Memento,Mil-Spec,
+Shattered Web Case,M249,Warbird,Mil-Spec,
+Shattered Web Case,SCAR-20,Torn,Mil-Spec,
+Shattered Web Case,MP5-SD,Acid Wash,Mil-Spec,
+Shattered Web Case,Dual Berettas,Balance,Mil-Spec,
+Shattered Web Case,PP-Bizon,Embargo,Restricted,
+Shattered Web Case,P2000,Obsidian,Restricted,
+Shattered Web Case,MP7,Neon Ply,Restricted,
+Shattered Web Case,AUG,Arctic Wolf,Restricted,
+Shattered Web Case,AK-47,Rat Rod,Restricted,
+Shattered Web Case,Tec-9,Decimator,Classified,
+Shattered Web Case,SSG 08,Bloodshot,Classified,
+Shattered Web Case,SG 553,Colony IV,Classified,
+Shattered Web Case,MAC-10,Stalker,Covert,
+Shattered Web Case,AWP,Containment Breach,Covert,
