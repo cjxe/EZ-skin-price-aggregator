@@ -1,7 +1,7 @@
 collection,weapon,skin,quality,drop
 Assault,SG 553,Tornado,Consumer Grade, 
 Assault,UMP-45,Caramel,Consumer Grade, 
-Assault,Five-SeveN,Candy Apple *,Industrial Grade, 
+Assault,Five-SeveN,Candy Apple ,Industrial Grade, 
 Assault,AUG,Hot Rod,Mil-Spec, 
 Assault,Negev,Anodized Navy,Mil-Spec, 
 Assault,MP9,Bulldozer,Restricted, 
@@ -32,7 +32,7 @@ Bank,SG 553,Army Sheen,Consumer Grade, √
 Bank,Sawed-Off,Forest DDPAT,Consumer Grade, √
 Bank,Negev,Army Sheen,Consumer Grade, √
 Bank,MP7,Forest DDPAT,Consumer Grade, √
-Bank,R8 Revolver,Bone Mask *,Consumer Grade, √
+Bank,R8 Revolver,Bone Mask ,Consumer Grade, √
 Bank,UMP-45,Carbon Fiber,Industrial Grade, √
 Bank,Nova,Caged Steel,Industrial Grade, √
 Bank,MAC-10,Silver,Industrial Grade, √
@@ -113,7 +113,7 @@ Dust II,M4A1-S,VariCamo,Mil-Spec, √
 Dust II,PP-Bizon,Brass,Mil-Spec, √
 Dust II,SG 553,Damascus Steel,Mil-Spec, √
 Dust II,P2000,Amber Fade,Restricted, √
-Dust II,R8 Revolver,Amber Fade *,Classified, √
+Dust II,R8 Revolver,Amber Fade ,Classified, √
 Inferno,MAG-7,Sand Dune,Consumer Grade, 
 Inferno,Nova,Walnut,Consumer Grade, 
 Inferno,P250,Gunsmoke,Industrial Grade, 
@@ -153,13 +153,13 @@ Lake,Dual Berettas,Cobalt Quartz,Restricted, √
 Militia,XM1014,Grassland,Consumer Grade, √
 Militia,MAC-10,Tornado,Consumer Grade, √
 Militia,PP-Bizon,Forest Leaves,Consumer Grade, √
-Militia,P2000,Grassland Leaves *,Industrial Grade, √
+Militia,P2000,Grassland Leaves ,Industrial Grade, √
 Militia,Nova,Modern Hunter,Mil-Spec, √
 Militia,Nova,Blaze Orange,Mil-Spec, √
 Militia,P250,Modern Hunter,Mil-Spec, √
 Militia,XM1014,Blaze Orange,Mil-Spec, √
 Militia,PP-Bizon,Modern Hunter,Mil-Spec, √
-Militia,M4A4,Modern Hunter *,Restricted, √
+Militia,M4A4,Modern Hunter ,Restricted, √
 Militia,SCAR-20,Splash Jam,Classified, √
 Mirage,Galil AR,Hunting Blind,Consumer Grade, √
 Mirage,P90,Scorched,Consumer Grade, √
@@ -279,7 +279,6 @@ Nuke 2018,Glock-18,Nuclear Garden,Restricted, √
 Nuke 2018,Tec-9,Remote Control,Classified, √
 Nuke 2018,M4A1-S,Control Panel,Classified, √
 Blacksite,MP5-SD,Lab Rats,Restricted,
-,,,,
 Chop Shop,SCAR-20,Army Sheen,Consumer Grade, †
 Chop Shop,CZ75-Auto,Army Sheen,Consumer Grade, †
 Chop Shop,M249,Impact Drill,Consumer Grade, †
@@ -378,7 +377,6 @@ St. Marc,SSG 08,Sea Calico,Restricted, †
 St. Marc,Glock-18,Synth Leaf,Restricted, †
 St. Marc,MP9,Wild Lily,Classified, †
 St. Marc,AK-47,Wild Lotus,Covert, †
-,,,,
 Arms Deal,MP7,Skulls,Mil-Spec,
 Arms Deal,SG 553,Ultraviolet,Mil-Spec,
 Arms Deal,AUG,Wings,Mil-Spec,
@@ -476,25 +474,25 @@ Phoenix,AWP,Asiimov,Covert,
 Phoenix,AUG,Chameleon,Covert,
 Huntsman,Tec-9,Isaac,Mil-Spec,
 Huntsman,SSG 08,Slashed,Mil-Spec,
-Huntsman,Dual Berettas,Retribution **,Mil-Spec,
+Huntsman,Dual Berettas,Retribution ,Mil-Spec,
 Huntsman,Galil AR,Kami,Mil-Spec,
-Huntsman,P90,Desert Warfare **,Mil-Spec,
-Huntsman,CZ75-Auto,Poison Dart **,Mil-Spec,
-Huntsman,CZ75-Auto,Twist *,Mil-Spec,
-Huntsman,P90,Module *,Mil-Spec,
-Huntsman,P2000,Pulse *,Mil-Spec,
+Huntsman,P90,Desert Warfare ,Mil-Spec,
+Huntsman,CZ75-Auto,Poison Dart ,Mil-Spec,
+Huntsman,CZ75-Auto,Twist ,Mil-Spec,
+Huntsman,P90,Module ,Mil-Spec,
+Huntsman,P2000,Pulse ,Mil-Spec,
 Huntsman,AUG,Torque,Restricted,
 Huntsman,PP-Bizon,Antique,Restricted,
 Huntsman,XM1014,Heaven Guard,Restricted,
-Huntsman,MAC-10,Curse **,Restricted,
-Huntsman,MAC-10,Tatter *,Restricted,
+Huntsman,MAC-10,Curse ,Restricted,
+Huntsman,MAC-10,Tatter ,Restricted,
 Huntsman,M4A1-S,Atomic Alloy,Classified,
 Huntsman,SCAR-20,Cyrex,Classified,
-Huntsman,USP-S,Orion **,Classified,
-Huntsman,USP-S,Caiman *,Classified,
+Huntsman,USP-S,Orion ,Classified,
+Huntsman,USP-S,Caiman ,Classified,
 Huntsman,AK-47,Vulcan,Covert,
-Huntsman,M4A4,Desert-Strike *,Covert,
-Huntsman,M4A4,Howl **,Contraband,
+Huntsman,M4A4,Desert-Strike ,Covert,
+Huntsman,M4A4,Howl ,Contraband,
 Breakout,MP7,Urban Hazard,Mil-Spec,
 Breakout,Negev,Desert-Strike,Mil-Spec,
 Breakout,P2000,Ivory,Mil-Spec,

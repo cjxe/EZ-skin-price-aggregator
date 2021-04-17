@@ -37,13 +37,14 @@ rows_2 = []
 for row in rows:
     row_2 = []
     for word in row:
-        row_2.append(word.rstrip('\n'))
+        row_2.append(word.rstrip('\n*'))
     rows_2.append(row_2)
 print(f'✅ Finished cleaning.')  # debug
 
 # Export the data to the `.csv` file.
 print(f'📤 Exporting data...')  # debug
 df_e = pd.DataFrame(rows_2[1:])
+df_e.dropna(axis=0, how='all', inplace=True)
 df_e.to_csv(dataset, index=False, mode='a', header=False)
 print(f'✅ Finished exporting...')  # debug
 
