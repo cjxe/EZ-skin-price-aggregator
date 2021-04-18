@@ -1,0 +1,3 @@
+ECHO Downloading libraries...
+pip install -r requirements.txt
+ECHO Done!

@@ -1,3 +1,3 @@
-market,weapon,skin,wear,float,buy,sell
-BitSkins,AWP,Hyper Beast,Field-Tested,0,59.69,56.71
-Steam market,AWP,Hyper Beast,tag_WearCategory2,0,80.0,69.57
+market,weapon,skin,wear,float,buy (USD),sell,url
+Steam market,AK-47,Vulcan,tag_WearCategory0,0,413.27,359.37,https://steamcommunity.com/market/search?q=Vulcan&category_730_Weapon%5B%5D=tag_weapon_ak47&category_730_Exterior%5B%5D=tag_WearCategory0&category_730_Quality%5B%5D=tag_normal&category_730_Quality%5B%5D=tag_unusual&appid=730
+BitSkins,AK-47,Vulcan,Factory New,0,336.45,319.63,https://bitskins.com/?market_hash_name=Vulcan&advanced=1&appid=730&item_wear=Factory+New&is_stattrak=-1&is_souvenir=-1&item_weapon=AK-47&sort_by=price&order=asc
