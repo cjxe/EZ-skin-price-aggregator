@@ -1,3 +1,6 @@
 /binn
 test*
 
+/data/cached/chrome
+/data/search_query.txt
+/data/search_result.txt

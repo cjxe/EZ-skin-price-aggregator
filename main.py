@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-import bitskins, steam_market
+import bitskins, steam_market, bynogame
 
 with open('./data/settings.json') as settings_file:
     config = json.load(settings_file)
@@ -32,6 +32,13 @@ if config['search_at_bitskins']:
     new_row.to_csv('./data/search_result.csv', index=False, mode='a', header=False)
 else:
     print(f'⏩ Skipped searching at BitSkins.')
+
+if config['search_at_bynogame']:
+    row = bynogame.search_at_bynogame(currency=config['currency'])
+    new_row = pd.DataFrame([row])
+    new_row.to_csv('./data/search_result.csv', index=False, mode='a', header=False)
+else:
+    print(f'⏩ Skipped searching at ByNoGame.')
 
 print(f'✅ Search done. Check out `./data/search_result.csv` for more info.\n')
 

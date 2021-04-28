@@ -30,7 +30,7 @@ To do that:
 ## Usage
 ![search_query_breakdown](https://i.ibb.co/qjRMyhf/data.png)
 
-After **downloading Python 3.8<** and **the necessary libraries**, run `main.py` and enter a search query in the following manner:
+After **downloading Python 3.8<** and **the necessary libraries**, run `chrome_installer.py` once, then run `main.py` and enter a search query in the following manner:
 
 #### 1- Define the `Category`
 | What to write | Category it searches in |
@@ -90,7 +90,7 @@ Yes.
 #### Marketplaces to add
 - [X] Steam Community Market
 - [X] BitSkins
-- [ ] ByNoGame
+- [X] ByNoGame
 - [ ] BUFF
 - [ ] CS.MONEY
 - [ ] Skinport
@@ -98,7 +98,7 @@ Yes.
 #### Other
 - [ ] Pull knives from a database. (`data_scraper.py`)
 - [ ] Update weapons and skins when ran once. (`updater.py`)
-- [ ] Optimise the search function with the new json file. (`lookups.py`)
+- [X] Optimise the search function with the new json file. (`lookups.py`)
 - [ ] UI with Electron?..
 
 

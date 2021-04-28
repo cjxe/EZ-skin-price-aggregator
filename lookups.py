@@ -1,6 +1,27 @@
 import ast, json
 from pyxdameraulevenshtein import damerau_levenshtein_distance_seqs, normalized_damerau_levenshtein_distance_seqs
 
+def we_category(search_query):
+    """Defines the category.
+    
+    :search_query   string
+    """
+    if search_query[:2] == "st":
+        cat_1 = 'StatTrak™'
+        cat_2 = '★ StatTrak™'  # stattrak knife
+        search_query = search_query[3:]
+
+    elif search_query[:2] == "so":
+        cat_1 = 'Souvenir'
+        cat_2 = ''
+        search_query = search_query[3:]
+    
+    else:
+        cat_1 = 'Normal'
+        cat_2 = '★'  # knife
+
+    return search_query, cat_1, cat_2
+
 def we_name(search_query):
     splitted_usr_inp = search_query.split(' ')
     weapon = ''
@@ -167,6 +188,35 @@ class Bitskins:
 
         we_exteriors = {
             'np': 'Vanilla',
+            'fn': 'Factory New',
+            'mw': 'Minimal Wear',
+            'ft': 'Field-Tested',
+            'ww': 'Well-Worn',
+            'bs': 'Battle-Scarred'
+        }
+        weapon_exterior = we_exteriors[search_query[-2:]]
+        search_query = search_query[:-3]
+
+        return search_query, weapon_exterior
+
+
+class Bynogame:
+    def category(self, cat_1, cat_2):
+        if (cat_1 == "StatTrak™"):
+            category = 1
+        
+        # elif (cat_1 == "Souvenir"):  # Website does not support this feature
+        
+        elif (cat_1 == "Normal"):
+            category = 0
+
+        return category
+
+    def exterior(self, search_query):
+        weapon_exterior = 'any'
+
+        we_exteriors = {
+            'np': '',  # Website does not support this feature
             'fn': 'Factory New',
             'mw': 'Minimal Wear',
             'ft': 'Field-Tested',
