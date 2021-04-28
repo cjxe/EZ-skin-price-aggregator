@@ -1,7 +1,7 @@
 import pandas as pd
 import collections, json
 
-df = pd.read_csv('./data/weapon_data.csv')
+df = pd.read_csv('./data/cached/weapon_n_skin.csv')
 dic_w_and_s = collections.defaultdict(list)
 
 grouped = df.groupby(['weapon', 'skin']).groups

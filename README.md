@@ -73,7 +73,7 @@ Once again, it can be either one-worded or two-worded. The ultimate amazing bril
 #### 4- Define the `Exterior` (aka `Condition`, `Wear`)
 | What to write | Exterior |
 |--------|---------------------------------|
-| `va` | vanilla (aka `not painted`) |
+| `np` | Not Painted (aka `Vanilla`) |
 | `fn` | Factory New |
 | `mw` | Minimal Wear |
 | `ft` | Field-Tested |

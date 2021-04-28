@@ -27,7 +27,7 @@ def search_at_steam(currency):
     weapon_2 = steamMarket.weapon(weapon)
 
     # Search for skin
-    skin = lookups.we_skin(usr_inp)
+    skin = lookups.we_skin(usr_inp, weapon)
 
     data = [ ('q', skin),
             ('category_730_Weapon[]', weapon_2),

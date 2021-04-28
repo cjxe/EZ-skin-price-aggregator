@@ -26,7 +26,7 @@ def search_at_bitskins(currency):
     usr_inp, weapon = lookups.we_name(usr_inp)
 
     # Search for skin
-    skin = lookups.we_skin(usr_inp)
+    skin = lookups.we_skin(usr_inp, weapon)
 
     data = { 'market_hash_name': skin,
             'advanced': '1',

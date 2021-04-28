@@ -1,4 +1,4 @@
-import ast
+import ast, json
 from pyxdameraulevenshtein import damerau_levenshtein_distance_seqs, normalized_damerau_levenshtein_distance_seqs
 
 def we_name(search_query):
@@ -32,15 +32,20 @@ def we_name(search_query):
 
     return search_query, weapon
 
-def we_skin(search_query):
-    with open('./data/skins.txt', 'r', encoding='utf-8') as f:
-        skins = ast.literal_eval(f.read())
+def we_skin(search_query, weapon):
+    with open('./data/cached/weapons_and_skins.json', 'r', encoding='utf-8') as json_file:
+        skins = json.load(json_file)
 
-    ds = normalized_damerau_levenshtein_distance_seqs(search_query.lower(), map(str.lower, skins))
+    we_skins = skins[weapon]
+
+    ds = normalized_damerau_levenshtein_distance_seqs(search_query.lower(), map(str.lower, we_skins))
     min_d = min(ds)
     index_of_min = ds.index(min_d)
-    skin = skins[index_of_min]
+    skin = we_skins[index_of_min]
     search_query = skin
+
+    if search_query == "(Vanilla)":
+        search_query = ""
 
     return search_query
 
@@ -64,6 +69,7 @@ class SteamMarket:
         weapon_exterior = 'any'
 
         we_exteriors = {
+            'np': 'tag_WearCategoryNA',
             'fn': 'tag_WearCategory0',
             'mw': 'tag_WearCategory1',
             'ft': 'tag_WearCategory2',
@@ -160,7 +166,7 @@ class Bitskins:
         weapon_exterior = 'any'
 
         we_exteriors = {
-            'va': 'Vanilla',
+            'np': 'Vanilla',
             'fn': 'Factory New',
             'mw': 'Minimal Wear',
             'ft': 'Field-Tested',

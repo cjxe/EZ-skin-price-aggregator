@@ -1,3 +1,3 @@
 market,weapon,skin,wear,float,buy (USD),sell,url
-Steam market,AK-47,Vulcan,tag_WearCategory0,0,413.27,359.37,https://steamcommunity.com/market/search?q=Vulcan&category_730_Weapon%5B%5D=tag_weapon_ak47&category_730_Exterior%5B%5D=tag_WearCategory0&category_730_Quality%5B%5D=tag_normal&category_730_Quality%5B%5D=tag_unusual&appid=730
-BitSkins,AK-47,Vulcan,Factory New,0,336.45,319.63,https://bitskins.com/?market_hash_name=Vulcan&advanced=1&appid=730&item_wear=Factory+New&is_stattrak=-1&is_souvenir=-1&item_weapon=AK-47&sort_by=price&order=asc
+Steam market,Gut Knife,,tag_WearCategoryNA,0,108.75,94.57,https://steamcommunity.com/market/search?q=&category_730_Weapon%5B%5D=tag_weapon_knife_gut&category_730_Exterior%5B%5D=tag_WearCategoryNA&category_730_Quality%5B%5D=tag_normal&category_730_Quality%5B%5D=tag_unusual&appid=730
+BitSkins,Gut Knife,,Vanilla,0,79.0,75.05,https://bitskins.com/?market_hash_name=&advanced=1&appid=730&item_wear=Vanilla&is_stattrak=-1&is_souvenir=-1&item_weapon=Gut+Knife&sort_by=price&order=asc
